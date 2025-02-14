@@ -1,0 +1,197 @@
+<!-- index.html -->
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>MCQ Quiz</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <div class="container">
+        <aside class="sidebar">
+            <ul id="question-list">
+                <!-- Question numbers will be added dynamically -->
+            </ul>
+        </aside>
+        <main class="quiz-container">
+            <div class="question-box">
+                <h2 id="question-text">Loading question...</h2>
+                <div id="options-container" class="options">
+                    <!-- Options will be added dynamically -->
+                </div>
+                <p id="explanation" class="explanation"></p>
+                <button id="next-btn" class="next-btn">Next</button>
+            </div>
+        </main>
+    </div>
+    <script src="script.js"></script>
+</body>
+</html>
+
+/* style.css */
+body {
+    font-family: Arial, sans-serif;
+    background: linear-gradient(to right, #dcc5ff, #ffe7ad);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    margin: 0;
+}
+.container {
+    display: flex;
+    width: 80%;
+    height: 90vh;
+    background: white;
+    border-radius: 20px;
+    box-shadow: 3.2px 6.4px 6.4px hsl(0deg 0% 0% / 0.40);
+    overflow: hidden;
+}
+.sidebar {
+    width: 20%;
+    background: rgba(255, 255, 255, 0.2);
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding: 20px;
+}
+.sidebar ul {
+    list-style: none;
+    padding: 0;
+}
+.sidebar ul li {
+    margin: 10px 0;
+}
+.sidebar ul li button {
+    width: 40px;
+    height: 40px;
+    border-radius: 50%;
+    border: none;
+    font-size: 16px;
+    font-weight: bold;
+    cursor: pointer;
+    background: white;
+    box-shadow: 2px 4px 4px hsl(0deg 0% 0% / 0.30);
+}
+.quiz-container {
+    width: 80%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.question-box {
+    width: 80%;
+    padding: 20px;
+    border-radius: 20px;
+    background: white;
+    box-shadow: 3px 6px 6px hsl(0deg 0% 0% / 0.40);
+}
+.options button {
+    display: block;
+    width: 100%;
+    padding: 10px;
+    margin: 10px 0;
+    border-radius: 20px;
+    border: none;
+    background: white;
+    box-shadow: 2px 4px 4px hsl(0deg 0% 0% / 0.30);
+    cursor: pointer;
+}
+.options button.correct {
+    background: lightgreen;
+}
+.options button.wrong {
+    background: lightcoral;
+}
+.explanation {
+    margin-top: 20px;
+    font-style: italic;
+}
+.next-btn {
+    display: block;
+    margin: 20px auto 0;
+    padding: 10px 20px;
+    border-radius: 20px;
+    border: none;
+    background: #ffd700;
+    cursor: pointer;
+}
+
+/* script.js */
+const questionList = document.getElementById("question-list");
+const questionText = document.getElementById("question-text");
+const optionsContainer = document.getElementById("options-container");
+const explanationText = document.getElementById("explanation");
+const nextButton = document.getElementById("next-btn");
+
+let currentQuestionIndex = 0;
+let questions = [];
+
+fetch("questions.json")
+    .then(response => response.json())
+    .then(data => {
+        questions = data;
+        loadQuestion();
+        generateQuestionNumbers();
+    });
+
+function loadQuestion() {
+    const question = questions[currentQuestionIndex];
+    questionText.innerText = question.question;
+    optionsContainer.innerHTML = "";
+    question.options.forEach((option, index) => {
+        const button = document.createElement("button");
+        button.innerText = option;
+        button.onclick = () => checkAnswer(button, index);
+        optionsContainer.appendChild(button);
+    });
+    explanationText.innerText = "";
+}
+
+function checkAnswer(button, index) {
+    const correctIndex = questions[currentQuestionIndex].correct;
+    if (index === correctIndex) {
+        button.classList.add("correct");
+    } else {
+        button.classList.add("wrong");
+        optionsContainer.children[correctIndex].classList.add("correct");
+    }
+    explanationText.innerText = questions[currentQuestionIndex].explanation;
+    nextButton.style.display = "block";
+}
+
+nextButton.onclick = () => {
+    currentQuestionIndex++;
+    if (currentQuestionIndex < questions.length) {
+        loadQuestion();
+        nextButton.style.display = "none";
+    } else {
+        alert("Quiz Completed!");
+    }
+};
+
+function generateQuestionNumbers() {
+    questions.forEach((_, index) => {
+        const button = document.createElement("button");
+        button.innerText = index + 1;
+        button.onclick = () => {
+            currentQuestionIndex = index;
+            loadQuestion();
+            nextButton.style.display = "none";
+        };
+        const listItem = document.createElement("li");
+        listItem.appendChild(button);
+        questionList.appendChild(listItem);
+    });
+}
+
+/* questions.json */
+[
+    {
+        "question": "The content (a) / of the letter (b)/ alarmed them. (c) / No error (d)",
+        "options": ["(a)", "(b)", "(c)", "(d)"],
+        "correct": 3,
+        "explanation": "No error in the sentence."
+    }
+]

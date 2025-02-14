@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>MCQ Quiz</title>
+    <link rel="stylesheet" href="style.css">
+  
+</head>
+<body>
+
+     <p class="raa">
+        <div class="sidebar">
+            <div class="opt"><h3>OPTIONS</h3></div>
+            <div class="sidebars"><ul id="questionList"></ul></div>
+            
+        </div>
+           <!-- Sidebar with Question Numbers -->
+
+     </p>
+
+    <div class="container">
+        
+
+        <!-- Main Quiz Section -->
+        <div class="quiz-container">
+            <h2 id="questionText">Loading...</h2>
+            <div class="options">
+                <button class="option" onclick="checkAnswer(0)"></button>
+                <button class="option" onclick="checkAnswer(1)"></button>
+                <button class="option" onclick="checkAnswer(2)"></button>
+                <button class="option" onclick="checkAnswer(3)"></button>
+            </div>
+            <p id="explanation" class="hidden"></p>
+        </div>
+
+        <!-- Next Button -->
+    <div class="next-container">
+        <button id="nextBtn" onclick="nextQuestion()">Next</button>
+    </div>
+    </div>
+
+    
+
+    <script src="script.js"></script>
+</body>
+</html>

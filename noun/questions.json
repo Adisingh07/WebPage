@@ -1,0 +1,786 @@
+[
+    {
+      "question": "The content of the letter alarmed them.",
+      "options": [
+        "a. The content",
+        "b. of the letter",
+        "c. alarmed them",
+        "d. No error"
+      ],
+      "correct": 2,
+      "explanation": "The error is in part (c). The content *was* alarming, not that it *alarmed them*.  The sentence needs to be rephrased to reflect this."
+    },
+    {
+      "question": "They were mesmerized by the surrounding of the place.",
+      "options": [
+        "a. They were mesmerized",
+        "b. by the surrounding",
+        "c. of the place",
+        "d. No error"
+      ],
+      "correct": 1,
+      "explanation": "The error is in part (b). 'Surrounding' should be 'surroundings' as it refers to the environment."
+    },
+    {
+      "question": "The equipments used by the photographer lay in pieces.",
+      "options": [
+        "a. The equipments used",
+        "b. by the photographer",
+        "c. lay in pieces",
+        "d. No error"
+      ],
+      "correct": 0,
+      "explanation": "The error is in part (a). 'Equipments' is incorrect. 'Equipment' is an uncountable noun and doesn't have a plural form."
+    },
+    {
+      "question": "The tourists stood enchanted by the breathtaking sceneries.",
+      "options": [
+        "a. The tourists stood",
+        "b. enchanted by the",
+        "c. breathtaking sceneries",
+        "d. No error"
+      ],
+      "correct": 2,
+      "explanation": "The error is in part (c). 'Sceneries' should be 'scenery' as it is an uncountable noun."
+    },
+    {
+      "question": "I carried the children as well as the luggages while my wife chatted away on phone.",
+      "options": [
+        "a. I carried the children",
+        "b. as well as the luggages",
+        "c. while my wife chatted away on phone",
+        "d. No error"
+      ],
+      "correct": 1,
+      "explanation": "The error is in part (b). 'Luggages' should be 'luggage' as it is an uncountable noun."
+    },
+    {
+      "question": "I like two spoonsful of honey in my tea.",
+      "options": [
+        "a. I like",
+        "b. two spoonsful of",
+        "c. honey in my tea",
+        "d. No error"
+      ],
+      "correct": 1,
+      "explanation": "The error is in part (b). It should be 'two spoonfuls'."
+    },
+    {
+      "question": "He felt he had committed a big blunder by ignoring the valuable advice of his parents.",
+      "options": [
+        "a. He felt he had committed",
+        "b. a big blunder by ignoring",
+        "c. the valuable advice of his parents",
+        "d. No error"
+      ],
+      "correct": 3,
+      "explanation": "No error."
+    },
+    {
+      "question": "The hungry kids pounced on the loafs of bread before their mother could slice them.",
+      "options": [
+        "a. The hungry kids pounced on",
+        "b. the loafs of bread",
+        "c. before their mother could slice them",
+        "d. No error"
+      ],
+      "correct": 1,
+      "explanation": "The error is in part (b). 'Loafs' should be 'loaves'."
+    },
+    {
+      "question": "There is a marked divide between the haves and haves not is India.",
+      "options": [
+        "a. There is a marked divide",
+        "b. between the haves",
+        "c. and haves not is India",
+        "d. No error"
+      ],
+      "correct": 2,
+      "explanation": "The error is in part (c).  It should be 'between the haves and the have-nots in India' or similar."
+    },
+    {
+      "question": "He failed to appear before the court despite several summons.",
+      "options": [
+        "a. He failed to appear",
+        "b. before the court",
+        "c. despite several summons",
+        "d. No error"
+      ],
+      "correct": 3,
+      "explanation": "No error."
+    },
+    {
+      "question": "He was convicted as all the evidences proved him guilty.",
+      "options": [
+        "a. He was convicted",
+        "b. as all the evidences",
+        "c. proved him guilty",
+        "d. No error"
+      ],
+      "correct": 1,
+      "explanation": "The error is in part (b). 'Evidences' should be 'evidence' as it is an uncountable noun."
+    },
+    {
+      "question": "He figures among the great man who won acclaim by resolute passion towards their pursuit.",
+      "options": [
+        "a. He figures among the great man",
+        "b. who won acclaim by resolute passion",
+        "c. towards their pursuit",
+        "d. No error"
+      ],
+      "correct": 0,
+      "explanation": "The error is in part (a). It should be 'great men'."
+    },
+    {
+      "question": "Not all young kids are given to making mischiefs; some are really disciplined.",
+      "options": [
+        "a. Not all young kids are given to making mischiefs",
+        "b. some are really disciplined",
+        "c. No error",
+        "d. No error"
+      ],
+      "correct": 0,
+      "explanation": "The error is in part (a). 'Mischiefs' should be 'mischief' as it's an uncountable noun."
+    },
+    {
+      "question": "One must never put one's sign on a document without reading it.",
+      "options": [
+        "a. One must never put",
+        "b. one's sign on a document",
+        "c. without reading it",
+        "d. No error"
+      ],
+      "correct": 1,
+      "explanation": "The error is in part (b).  It should be 'one's signature' or 'their sign'."
+    },
+    {
+      "question": "My friends told me that there was no place for me on the bench.",
+      "options": [
+        "a. My friends told me",
+        "b. that there was no place",
+        "c. for me on the bench",
+        "d. No error"
+      ],
+      "correct": 3,
+      "explanation": "No error."
+    },
+    {
+      "question": "Despite the criminalization of child labour, several ten years olds still work in the unorganized sector.",
+      "options": [
+        "a. Despite the criminalization of child labour",
+        "b. several ten years olds",
+        "c. still work in the unorganized sector",
+        "d. No error"
+      ],
+      "correct": 1,
+      "explanation": "The error is in part (b). It should be 'ten-year-olds' (hyphenated adjective)."
+    },
+    {
+      "question": "Sit carefully, the chair's left leg is broken.",
+      "options": [
+        "a. Sit carefully",
+        "b. the chair's left leg",
+        "c. is broken",
+        "d. No error"
+      ],
+      "correct": 3,
+      "explanation": "No error."
+    },
+    {
+      "question": "Mother rearranged the furnitures anticipating the arrival of the important guests.",
+      "options": [
+        "a. Mother rearranged the furnitures",
+        "b. anticipating the arrival",
+        "c. of the important guests",
+        "d. No error"
+      ],
+      "correct": 0,
+      "explanation": "The error is in part (a). 'Furnitures' should be 'furniture' as it is an uncountable noun."
+    },
+    
+        {
+          "question": "The car driver changed gears as he approached the hillock.",
+          "options": [
+            "a. The car driver",
+            "b. changed gears as he",
+            "c. approached the hillock",
+            "d. No error"
+          ],
+          "correct": 3,
+          "explanation": "No error."
+        },
+        {
+          "question": "The greedy king annexed territories after territories but was not satisfied.",
+          "options": [
+            "a. The greedy king annexed",
+            "b. territories after territories",
+            "c. but was not satisfied",
+            "d. No error"
+          ],
+          "correct": 3,
+          "explanation": "No error."
+        },
+        {
+          "question": "He showed me his brother's friend's house on the beach.",
+          "options": [
+            "a. He showed me",
+            "b. his brother's friend's house",
+            "c. on the beach",
+            "d. No error"
+          ],
+          "correct": 3,
+          "explanation": "No error."
+        },
+        {
+          "question": "The unruly mob vandalized the premises of the national Daily.",
+          "options": [
+            "a. The unruly mob",
+            "b. vandalized the premises",
+            "c. of the national Daily",
+            "d. No error"
+          ],
+          "correct": 3,
+          "explanation": "No error."
+        },
+        {
+          "question": "This is the first womens college established in the city.",
+          "options": [
+            "a. This is the first",
+            "b. womens college",
+            "c. established in the city",
+            "d. No error"
+          ],
+          "correct": 1,
+          "explanation": "The error is in part (b). It should be 'women's college' (possessive plural)."
+        },
+        {
+          "question": "The soldiers in these regiments were commissioned by their commander-in-chiefs.",
+          "options": [
+            "a. The soldiers in these regiments",
+            "b. were commissioned by",
+            "c. their commander-in-chiefs",
+            "d. No error"
+          ],
+          "correct": 2,
+          "explanation": "The error is in part (c). 'Commander-in-chiefs' should be 'commander-in-chief' (the plural is formed on the main word)."
+        },
+        {
+          "question": "There was a selection of poultries in the menu of the engagement party.",
+          "options": [
+            "a. There was a selection of poultries",
+            "b. in the menu of",
+            "c. the engagement party",
+            "d. No error"
+          ],
+          "correct": 0,
+          "explanation": "The error is in part (a). 'Poultries' should be 'poultry' as it is an uncountable noun."
+        },
+        {
+          "question": "Of their nine consecutive victory, five have been at home.",
+          "options": [
+            "a. Of their nine",
+            "b. consecutive victory",
+            "c. five have been at home",
+            "d. No error"
+          ],
+          "correct": 1,
+          "explanation": "The error is in part (b). 'Victory' should be 'victories' (plural because there were nine)."
+        },
+        {
+          "question": "Comparable studies of fish and other aquatic vertebrates are scarce.",
+          "options": [
+            "a. Comparable studies of fish",
+            "b. and other aquatic vertebrates",
+            "c. are scarce",
+            "d. No error"
+          ],
+          "correct": 3,
+          "explanation": "No error. 'Fish' is an uncountable noun and can be used in the plural form when referring to different species or populations."
+        },
+        {
+          "question": "My sister said, \"You're getting married! Congratulation!\".",
+          "options": [
+            "a. My sister said,",
+            "b. \"You're getting married!\"",
+            "c. \"Congratulation!\"",
+            "d. No error"
+          ],
+          "correct": 2,
+          "explanation": "The error is in part (c). It should be 'Congratulations!' (an exclamation and plural)."
+        },
+        {
+          "question": "Besides football, athletic is probably the sport I know and care most about.",
+          "options": [
+            "a. Besides football, athletic is",
+            "b. probably the sport I know",
+            "c. and care most about",
+            "d. No error"
+          ],
+          "correct": 0,
+          "explanation": "The error is in part (a).  'Athletic' should be 'athletics' as it is generally used as a plural noun."
+        },
+        {
+          "question": "A gallow was erected in front of the city gates.",
+          "options": [
+            "a. A gallow",
+            "b. was erected in front of",
+            "c. the city gates",
+            "d. No error"
+          ],
+          "correct": 0,
+          "explanation": "The error is in part (a). It should be 'A gallows' (plural)."
+        },
+        {
+          "question": "We needed to get to office on time but we had no mean of transport.",
+          "options": [
+            "a. We needed to get to office on time",
+            "b. but we had no mean of transport",
+            "c. No error",
+            "d. No error"
+          ],
+          "correct": 1,
+          "explanation": "The error is in part (b). It should be 'no means of transport'."
+        },
+        {
+          "question": "A heart failure led her father to his death.",
+          "options": [
+            "a. A heart failure",
+            "b. led her father",
+            "c. to his death",
+            "d. No error"
+          ],
+          "correct": 0,
+          "explanation": "The error is in part (a). It should be 'Heart failure'."
+        },
+        {
+          "question": "I had always been at work but could barely make both end meet.",
+          "options": [
+            "a. I had always been at work",
+            "b. but could barely make",
+            "c. both end meet",
+            "d. No error"
+          ],
+          "correct": 2,
+          "explanation": "The error is in part (c).  It should be 'both ends meet'."
+        },
+        {
+          "question": "One of the process of this continental sweet dish needs skill and expertise.",
+          "options": [
+            "a. One of the process of",
+            "b. this continental sweet dish",
+            "c. needs skill and expertise",
+            "d. No error"
+          ],
+          "correct": 0,
+          "explanation": "The error is in part (a). It should be 'One of the processes'."
+        },
+        {
+          "question": "She showed him the map which showed the property as a forty-kilometres stretch along the Yamuna Expressway.",
+          "options": [
+            "a. She showed him the map",
+            "b. which showed the property",
+            "c. as a forty-kilometres stretch along the Yamuna Expressway",
+            "d. No error"
+          ],
+          "correct": 2,
+          "explanation": "The error is in part (c). It should be 'forty-kilometer' (hyphenated adjective)."
+        },
+        
+          {
+            "question": "A house is made of bricks and stones, a home is made of love alone.",
+            "options": [
+              "a. A house is made of bricks and stones",
+              "b. a home is made",
+              "c. of love alone",
+              "d. No error"
+            ],
+            "correct": 3,
+            "explanation": "No error."
+          },
+          {
+            "question": "Tribal people generally hunt buffaloes for skin and meat.",
+            "options": [
+              "a. Tribal people generally",
+              "b. hunt buffaloes",
+              "c. for skin and meat",
+              "d. No error"
+            ],
+            "correct": 3,
+            "explanation": "No error."
+          },
+          {
+            "question": "Warriors after warriors fell on the ground dead in the fierce battle between the Kauravas and the Pandavas.",
+            "options": [
+              "a. Warriors after warriors fell on the ground dead",
+              "b. in the fierce battle",
+              "c. between the Kauravas and the Pandavas",
+              "d. No error"
+            ],
+            "correct": 3,
+            "explanation": "No error."
+          },
+          {
+            "question": "During the college vacations he does casual works in the local hospital.",
+            "options": [
+              "a. During the college vacations",
+              "b. he does casual works",
+              "c. in the local hospital",
+              "d. No error"
+            ],
+            "correct": 1,
+            "explanation": "The error is in part (b). 'Works' should be 'work'."
+          },
+          {
+            "question": "I give you my words that this kind of action will never happen again.",
+            "options": [
+              "a. I give you my words",
+              "b. that this kind of action will",
+              "c. never happen again",
+              "d. No error"
+            ],
+            "correct": 3,
+            "explanation": "No error."
+          },
+          {
+            "question": "The first International Day of Yoga was observed all over the world on June 21st 2015.",
+            "options": [
+              "a. The first International Day of Yoga",
+              "b. was observed all over the world",
+              "c. on June 21st 2015",
+              "d. No error"
+            ],
+            "correct": 3,
+            "explanation": "No error."
+          },
+          {
+            "question": "The panel interviewed the shortlisted candidate for a half an hour.",
+            "options": [
+              "a. The panel interviewed",
+              "b. the shortlisted candidate",
+              "c. for a half an hour",
+              "d. No error"
+            ],
+            "correct": 3,
+            "explanation": "No error."
+          },
+          {
+            "question": "Sri Lankans share a common ancestry with their Indian brothers.",
+            "options": [
+              "a. Sri Lankans share",
+              "b. a common ancestry",
+              "c. with their Indian brothers",
+              "d. No error"
+            ],
+            "correct": 3,
+            "explanation": "No error."
+          },
+          {
+            "question": "Thankfully, passerbys spotted the raging fire and called the fire brigade.",
+            "options": [
+              "a. Thankfully, passerbys",
+              "b. spotted the raging fire",
+              "c. and called the fire brigade",
+              "d. No error"
+            ],
+            "correct": 0,
+            "explanation": "The error is in part (a). 'Passerbys' should be 'passersby'."
+          },
+          {
+            "question": "For extra energy he has two spoonsful of sugar in his morning tea.",
+            "options": [
+              "a. For extra energy",
+              "b. he has two spoonsful of sugar",
+              "c. in his morning tea",
+              "d. No error"
+            ],
+            "correct": 1,
+            "explanation": "The error is in part (b). It should be 'two spoonfuls'."
+          },
+          {
+            "question": "Mother Mary and Joseph are believed to be Jesus's parents.",
+            "options": [
+              "a. Mother Mary and Joseph",
+              "b. are believed to be",
+              "c. Jesus's parents",
+              "d. No error"
+            ],
+            "correct": 3,
+            "explanation": "No error."
+          },
+          {
+            "question": "I lent a huge amount of money to Ankita, my school friend for old time's sake.",
+            "options": [
+              "a. I lent a huge amount of money",
+              "b. to Ankita, my school friend",
+              "c. for old time's sake",
+              "d. No error"
+            ],
+            "correct": 3,
+            "explanation": "No error."
+          },
+          {
+            "question": "A friend of my uncles has thrown a party at his farmhouse tonight.",
+            "options": [
+              "a. A friend of my uncles",
+              "b. has thrown a party",
+              "c. at his farmhouse tonight",
+              "d. No error"
+            ],
+            "correct": 0,
+            "explanation": "The error is in part (a). It should be 'uncle's'."
+          },
+          {
+            "question": "Do you know the son of Kamala's who has been awarded for bravery recently.",
+            "options": [
+              "a. Do you know the son of Kamala's",
+              "b. who has been awarded",
+              "c. for bravery recently",
+              "d. No error"
+            ],
+            "correct": 3,
+            "explanation": "No error."
+          },
+          {
+            "question": "It is our moral duty to take care of the deprived's children and to help them live a dignified life.",
+            "options": [
+              "a. It is our moral duty",
+              "b. to take care of the deprived's children",
+              "c. and to help them live a dignified life",
+              "d. No error"
+            ],
+            "correct": 1,
+            "explanation": "The error is in part (b). It should be 'the deprived children' or 'the children of the deprived'."
+          },
+          {
+            "question": "A five-men enquiry committee was appointed to look into the matter.",
+            "options": [
+              "a. A five-men enquiry committee",
+              "b. was appointed",
+              "c. to look into the matter",
+              "d. No error"
+            ],
+            "correct": 0,
+            "explanation": "The error is in part (a). It should be 'five-man' or 'five-member'."
+          },
+          {
+            "question": "I spent nearly four and half years at Harrow of which three were in the Army class.",
+            "options": [
+              "a. I spent nearly four and half years",
+              "b. at Harrow",
+              "c. of which three were in the Army class",
+              "d. No error"
+            ],
+            "correct": 3,
+            "explanation": "No error."
+          },
+          {
+            "question": "The Manager put forward a number of criterions for the post.",
+            "options": [
+              "a. The Manager put forward",
+              "b. a number of criterions",
+              "c. for the post",
+              "d. No error"
+            ],
+            "correct": 1,
+            "explanation": "The error is in part (b). It should be 'criteria'."
+          },
+          {
+            "question": "My brother-in-laws who live in Bombay have come to stay with us.",
+            "options": [
+              "a. My brother-in-laws",
+              "b. who live in Bombay",
+              "c. have come to stay with us",
+              "d. No error"
+            ],
+            "correct": 0,
+            "explanation": "The error is in part (a). It should be 'brothers-in-law'."
+          },
+          {
+            "question": "If a student needs advices about career, he or she should consult the career counsellor.",
+            "options": [
+              "a. If a student needs advices about career",
+              "b. he or she should consult",
+              "c. the career counsellor",
+              "d. No error"
+            ],
+            "correct": 0,
+            "explanation": "The error is in part (a). 'Advices' should be 'advice'."
+          },
+          
+            {
+              "question": "The government has ordered to set up industries on the outskirt of the city.",
+              "options": [
+                "a. The government has ordered",
+                "b. to set up industries",
+                "c. on the outskirt of the city",
+                "d. No error"
+              ],
+              "correct": 2,
+              "explanation": "The error is in part (c). It should be 'outskirts'."
+            },
+            {
+              "question": "The peasantries faced a lot of problems during the British rule with regard to indigo cropping.",
+              "options": [
+                "a. The peasantries faced a lot of problems",
+                "b. during the British rule",
+                "c. with regard to indigo cropping",
+                "d. No error"
+              ],
+              "correct": 0,
+              "explanation": "The error is in part (a). It should be 'peasantry'."
+            },
+            {
+              "question": "The English team lost the cricket match at the onset of the second inning.",
+              "options": [
+                "a. The English team",
+                "b. lost the cricket match",
+                "c. at the onset of the second inning",
+                "d. No error"
+              ],
+              "correct": 2,
+              "explanation": "The error is in part (c). It should be 'innings'."
+            },
+            {
+              "question": "His inferiority complex owing to his grey hairs prevents him from going to the parties and social gatherings.",
+              "options": [
+                "a. His inferiority complex owing to his grey hairs",
+                "b. prevents him from going to the",
+                "c. parties and social gatherings",
+                "d. No error"
+              ],
+              "correct": 0,
+              "explanation": "The error is in part (a). It should be 'gray hair' or 'grey hair'."
+            },
+            {
+              "question": "The news about the terrorist attack in the Parliament are not true.",
+              "options": [
+                "a. The news",
+                "b. about the terrorist attack in the Parliament",
+                "c. are not true",
+                "d. No error"
+              ],
+              "correct": 2,
+              "explanation": "The error is in part (c). 'News' is singular, so the verb should be 'is'."
+            },
+            {
+              "question": "If you are unable to read properly you should visit an ophthalmologist and get a spectacle prescribed for yourself.",
+              "options": [
+                "a. If you are unable to read properly",
+                "b. you should visit an ophthalmologist",
+                "c. and get a spectacle prescribed for yourself",
+                "d. No error"
+              ],
+              "correct": 2,
+              "explanation": "The error is in part (c). It should be 'spectacles' or 'a pair of spectacles'."
+            },
+            {
+              "question": "It is a rare sight to see so many deers together basking in the sun.",
+              "options": [
+                "a. It is a rare sight",
+                "b. to see so many deers together",
+                "c. basking in the sun",
+                "d. No error"
+              ],
+              "correct": 1,
+              "explanation": "The error is in part (b).  While 'deers' is sometimes accepted, 'deer' is generally used as both the singular and plural form."
+            },
+            {
+              "question": "Million of rupee were spent on the construction of a huge statue of the famous political leader.",
+              "options": [
+                "a. Million of rupee were spent",
+                "b. on the construction of",
+                "c. a huge statue of the famous political leader",
+                "d. No error"
+              ],
+              "correct": 0,
+              "explanation": "The error is in part (a). It should be 'Millions of rupees'."
+            },
+            {
+              "question": "The price of 1-Phone shot up unexpectedly due to the heavy custom that we had to pay at the airport.",
+              "options": [
+                "a. The price of 1-Phone shot up unexpectedly",
+                "b. due to the heavy custom",
+                "c. that we had to pay at the airport",
+                "d. No error"
+              ],
+              "correct": 1,
+              "explanation": "The error is in part (b). It should be 'customs' (plural)."
+            },
+            {
+              "question": "You should teach your children some manner as they were a nuisance in today's party.",
+              "options": [
+                "a. You should teach your children some manner",
+                "b. as they were",
+                "c. a nuisance in today's party",
+                "d. No error"
+              ],
+              "correct": 1,
+              "explanation": "The error is in part (b). It should be 'manners' (plural) and the clause should be rephrased, for example,  'as if they were becoming a nuisance'."
+            },
+            {
+              "question": "Mary and John's coats are red and black.",
+              "options": [
+                "a. Mary and John's coats are",
+                "b. red and black",
+                "c. No error",
+                "d. No error"
+              ],
+              "correct": 2,
+              "explanation": "The error is in part (c).  Since it's likely they each have their own coat, it should be 'Mary's and John's coats' or 'Mary and John's coats are respectively red and black'."
+            },
+            {
+              "question": "I am very happy to know that James' wedding is next week.",
+              "options": [
+                "a. I am very happy to know that James' wedding",
+                "b. is next week",
+                "c. No error",
+                "d. No error"
+              ],
+              "correct": 2,
+              "explanation": "The error is in part (c).  While grammatically correct, it's more natural to say 'James's wedding is next week'."
+            },
+            {
+              "question": "There is a lot yet to be discovered in Jupiter's and Saturn's atmosphere.",
+              "options": [
+                "a. There is a lot",
+                "b. yet to be discovered",
+                "c. in Jupiter's and Saturn's atmosphere",
+                "d. No error"
+              ],
+              "correct": 3,
+              "explanation": "No error."
+            },
+            {
+              "question": "The landlord will get our house's roof repaired before the onset of monsoon.",
+              "options": [
+                "a. The landlord will get",
+                "b. our house's roof repaired",
+                "c. before the onset of monsoon",
+                "d. No error"
+              ],
+              "correct": 3,
+              "explanation": "No error."
+            },
+            {
+              "question": "The total population in India was estimated at one thousand and fifty four millions, according to the latest census figures.",
+              "options": [
+                "a. The total population in India was estimated at",
+                "b. one thousand and fifty four millions",
+                "c. according to the latest census figures",
+                "d. No error"
+              ],
+              "correct": 1,
+              "explanation": "The error is in part (b). It should be 'one billion, fifty-four million' or '1,054,000,000'."
+            },
+            {
+              "question": "The items I liked most were the rose wood carvings and the teak-wood furnitures of Ditch design.",
+              "options": [
+                "a. The items I liked most were",
+                "b. the rose wood carvings",
+                "c. and the teak-wood furnitures of Ditch design",
+                "d. No error"
+              ],
+              "correct": 2,
+              "explanation": "The error is in part (c). It should be 'furniture'."
+            }
+          ]

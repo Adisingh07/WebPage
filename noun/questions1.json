@@ -1,0 +1,214 @@
+[
+    
+        {
+          "question": "The content (a) / of the letter (b)/ alarmed them. (c) / No error (d)",
+          "options": ["(a)", "(b)", "(c)", "(d) No error"],
+          "correct": 2,
+          "explanation": "The error is in part (c). The content *was* alarming, not that it *alarmed them*.  The sentence needs to be rephrased to reflect this."
+        },
+        {
+          "question": "They were mesmerized (a)/ by the surrounding (b)/ of the place. (c)/ No error (d)",
+          "options": ["(a)", "(b)", "(c)", "(d) No error"],
+          "correct": 1,
+          "explanation": "The error is in part (b). 'Surrounding' should be 'surroundings' as it refers to the environment."
+        },
+        {
+          "question": "The equipments used (a)/by the photographer (b)/ lay in pieces. (c)/ No error (d)",
+          "options": ["(a)", "(b)", "(c)", "(d) No error"],
+          "correct": 0,
+          "explanation": "The error is in part (a). 'Equipments' is incorrect. 'Equipment' is an uncountable noun and doesn't have a plural form."
+        },
+        {
+          "question": "The tourists stood (a)/ enchanted by the (b)/ breathtaking sceneries. (c)/ No error (d)",
+          "options": ["(a)", "(b)", "(c)", "(d) No error"],
+          "correct": 2,
+          "explanation": "The error is in part (c). 'Sceneries' should be 'scenery' as it is an uncountable noun."
+        },
+        {
+          "question": "I carried the children (a)/as well as the luggages (b)/ while my wife chatted away on phone. (c)/ No error (d)",
+          "options": ["(a)", "(b)", "(c)", "(d) No error"],
+          "correct": 1,
+          "explanation": "The error is in part (b). 'Luggages' should be 'luggage' as it is an uncountable noun."
+        },
+        {
+          "question": "I like (a) / two spoonsful of (b) / honey in my tea. (c)/No error (d)",
+          "options": ["(a)", "(b)", "(c)", "(d) No error"],
+          "correct": 1,
+          "explanation": "The error is in part (b). It should be 'two spoonfuls'."
+        },
+        {
+          "question": "He felt he had committed (a)/ a big blunder by ignoring (b)/ the valuable advice of his parents. (c)/ No error (d)",
+          "options": ["(a)", "(b)", "(c)", "(d) No error"],
+          "correct": 3,
+          "explanation": "No error."
+        },
+        {
+          "question": "The hungry kids pounced on (a)/ the loafs of bread (b) / before their mother could slice them. (c) (d) No error",
+          "options": ["(a)", "(b)", "(c)", "(d) No error"],
+          "correct": 1,
+          "explanation": "The error is in part (b). 'Loafs' should be 'loaves'."
+        },
+        {
+          "question": "There is a marked divide (a)/ between the haves (b) and haves not is India. (c)/ No error (d)",
+          "options": ["(a)", "(b)", "(c)", "(d) No error"],
+          "correct": 2,
+          "explanation": "The error is in part (c).  It should be 'between the haves and the have-nots in India' or similar."
+        },
+        {
+          "question": "He failed to appear (a)/before the court (b)/despite several summons./ (d) No error",
+          "options": ["(a)", "(b)", "(c)", "(d) No error"],
+          "correct": 3,
+          "explanation": "No error."
+        },
+        {
+          "question": "He was convicted (a)/ as all the evidences (b)/proved him guilty. (c)/ No error (d)",
+          "options": ["(a)", "(b)", "(c)", "(d) No error"],
+          "correct": 1,
+          "explanation": "The error is in part (b). 'Evidences' should be 'evidence' as it is an uncountable noun."
+        },
+        {
+          "question": "He figures among the great man (a)/ who won acclaim by resolute passion (b)/ towards their pursuit.(c)/ No error(d)",
+          "options": ["(a)", "(b)", "(c)", "(d) No error"],
+          "correct": 0,
+          "explanation": "The error is in part (a). It should be 'great men'."
+        },
+        {
+          "question": "Not all young kids (a)/are given to making mischiefs; (b)/ some are really disciplined. (c)/ No error.(d)",
+          "options": ["(a)", "(b)", "(c)", "(d) No error"],
+          "correct": 1,
+          "explanation": "The error is in part (b). 'Mischiefs' should be 'mischief' as it's an uncountable noun."
+        },
+        {
+          "question": "One must never put (a)/ one's sign on a document (b)/ without reading it. (c)/ No error (d)",
+          "options": ["(a)", "(b)", "(c)", "(d) No error"],
+          "correct": 1,
+          "explanation": "The error is in part (b).  It should be 'one's signature' or 'their sign'."
+        },
+        {
+          "question": "My friends told me (a)/that there was no place (b)/for me on the bench. (c)/No error (d)",
+          "options": ["(a)", "(b)", "(c)", "(d) No error"],
+          "correct": 3,
+          "explanation": "No error."
+        },
+        {
+          "question": "Despite the criminalization of child labour,(a)/ several ten years olds (b)/still work in the unorganized sector. (c)/ No error (d)",
+          "options": ["(a)", "(b)", "(c)", "(d) No error"],
+          "correct": 1,
+          "explanation": "The error is in part (b). It should be 'ten-year-olds' (hyphenated adjective)."
+        },
+        {
+          "question": "Sit carefully, (a)/the chair's left leg (b) is broken.(c)/ no error (d)",
+          "options": ["(a)", "(b)", "(c)", "(d) No error"],
+          "correct": 3,
+          "explanation": "No error."
+        },
+        {
+          "question": "Mother rearranged the furnitures (a)/ anticipating the arrival (b)/ of the important guests. (c)/ (d) No error.",
+          "options": ["(a)", "(b)", "(c)", "(d) No error"],
+          "correct": 0,
+          "explanation": "The error is in part (a). 'Furnitures' should be 'furniture' as it is an uncountable noun."
+        },
+        {
+          "question": "The car driver (a)/changed gears as he (b)/ approached the hillock. (c)/ No error (d)",
+          "options": ["(a)", "(b)", "(c)", "(d) No error"],
+          "correct": 3,
+          "explanation": "No error."
+        },
+        {
+          "question": "The greedy king annexed (a)/territories after territories (b)/ but was not satisfied.(c)/ No error (d)",
+          "options": ["(a)", "(b)", "(c)", "(d) No error"],
+          "correct": 3,
+          "explanation": "No error."
+        },
+        {
+          "question": "He showed me (a) / his brother's friend's house (b)/ on the beach. (c)/ No error(d)",
+          "options": ["(a)", "(b)", "(c)", "(d) No error"],
+          "correct": 3,
+          "explanation": "No error."
+        },
+        {
+          "question": "The unruly mob (a)/ vandalized the premises (b)/ of the national Daily. (c)/ No error (d)",
+          "options": ["(a)", "(b)", "(c)", "(d) No error"],
+          "correct": 3,
+          "explanation": "No error."
+        },
+        {
+            "question": "This is the first (a)/ womens college (b)/ established in the city. (c)/ No error (d)",
+            "options": ["(a)", "(b)", "(c)", "(d) No error"],
+            "correct": 1,
+            "explanation": "The error is in part (b). It should be 'women's college' (possessive plural)."
+          },
+          {
+            "question": "The soldiers in these regiments (a)/ were commissioned by (b) their commander-in-chiefs.(c)/ No error(d)",
+            "options": ["(a)", "(b)", "(c)", "(d) No error"],
+            "correct": 2,
+            "explanation": "The error is in part (c). 'Commander-in-chiefs' should be 'commander-in-chief' (the plural is formed on the main word)."
+          },
+          {
+            "question": "There was a selection of poultries (a)/ in the menu of (b)/ the engagement party. (c)/ No error (d)",
+            "options": ["(a)", "(b)", "(c)", "(d) No error"],
+            "correct": 0,
+            "explanation": "The error is in part (a). 'Poultries' should be 'poultry' as it is an uncountable noun."
+          },
+          {
+            "question": "Of their nine (a)/consecutive victory, (b)/ five have been at home. (c)/ No error (d)",
+            "options": ["(a)", "(b)", "(c)", "(d) No error"],
+            "correct": 1,
+            "explanation": "The error is in part (b). 'Victory' should be 'victories' (plural because there were nine)."
+          },
+          {
+            "question": "Comparable studies of fish (a)/ and other aquatic vertebrates (b)/ are scarce. (c)/ No error (d)",
+            "options": ["(a)", "(b)", "(c)", "(d) No error"],
+            "correct": 3,
+            "explanation": "No error. 'Fish' is an uncountable noun and can be used in the plural form when referring to different species or populations."
+          },
+          {
+            "question": "My sister said, (a)/\" You're getting married! (b) / Congratulation!\". (c)/ No error (d)",
+            "options": ["(a)", "(b)", "(c)", "(d) No error"],
+            "correct": 2,
+            "explanation": "The error is in part (c). It should be 'Congratulations!' (an exclamation and plural)."
+          },
+          {
+            "question": "Besides football, athletic is (a)/ probably the sport 1 know (b)/and care most about. (c)/ No error (d)",
+            "options": ["(a)", "(b)", "(c)", "(d) No error"],
+            "correct": 0,
+            "explanation": "The error is in part (a).  'Athletic' should be 'athletics' as it is generally used as a plural noun."
+          },
+          {
+            "question": "A gallow (a)/ was erected in front of (b)/ the city gates. (c)/ No error (d)",
+            "options": ["(a)", "(b)", "(c)", "(d) No error"],
+            "correct": 0,
+            "explanation": "The error is in part (a). It should be 'A gallows' (plural)."
+          },
+          {
+            "question": "We needed to (a)/ get to office on time (b)/ but we had no mean of transport. (c)/ No error (d)",
+            "options": ["(a)", "(b)", "(c)", "(d) No error"],
+            "correct": 2,
+            "explanation": "The error is in part (c). It should be 'no means of transport'."
+          },
+          {
+            "question": "A heart failure (a)/ led her father (b)/ to his death. (c)/ No error (d)",
+            "options": ["(a)", "(b)", "(c)", "(d) No error"],
+            "correct": 0,
+            "explanation": "The error is in part (a). It should be 'Heart failure'."
+          },
+          {
+            "question": "I had always been at work (a)/ but could barely make (b)/ both end meet. (c)/ No error (d)",
+            "options": ["(a)", "(b)", "(c)", "(d) No error"],
+            "correct": 2,
+            "explanation": "The error is in part (c).  It should be 'both ends meet'."
+          },
+          {
+            "question": "One of the process of (a)/ this continental sweet dish (b)/ needs skill and expertise. (c)/ No error (d)",
+            "options": ["(a)", "(b)", "(c)", "(d) No error"],
+            "correct": 0,
+            "explanation": "The error is in part (a). It should be 'One of the processes'."
+          },
+          {
+            "question": "She showed him the map. (a)/ which showed the property (b)/ as a forty-kilometres stretch along the Yamuna Expressway. (c)/ No error (d)",
+            "options": ["(a)", "(b)", "(c)", "(d) No error"],
+            "correct": 2,
+            "explanation": "The error is in part (c). It should be 'forty-kilometer' (hyphenated adjective)."
+          }
+        
+]

@@ -1,0 +1,132 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 20px;
+    padding: 0;
+    background-color: #85FFBD;
+    background-image: linear-gradient(45deg, #85FFBD 0%, #FFFB7D 100%);
+
+    /* background: #efe1a7; */
+       /* Light Yellow Background */
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content:space-evenly;
+    
+    height: 100vh;
+}
+
+/* Main Container */
+.container {
+    display: flex;
+    width: 80%;
+    max-width: 1000px;
+    gap: 20px;
+    align-items:center;
+    flex-direction: column;
+}
+
+
+/* Sidebar */
+.sidebar {
+    box-shadow: rgba(0, 0, 0, 0.19) 0px 10px 20px, rgba(0, 0, 0, 0.23) 0px 6px 6px;
+    width: 300px;
+    height: 80%;
+    overflow: auto;
+    padding: 15px;
+    background-color: #8EC5FC;
+    background-image: linear-gradient(62deg, #8EC5FC 0%, #E0C3FC 100%);
+
+    /* background: #c9a7ff; */
+    border: 2px solid blue;
+    border-radius: 10px;
+    text-align: center;
+}
+
+.sidebar h3 {
+    text-align: center;
+    font-style: italic;
+    font-weight: bold;
+}
+
+.sidebar ul {
+    list-style: none;
+    padding: 0;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+
+.sidebar button {
+    width: 40px;
+    height: 40px;
+    margin: 5px;
+    border-radius: 50%;
+    border: 2px solid gray;
+    font-size: 18px;
+    cursor: pointer;
+    background: white;
+    box-shadow: 2px 4px 6px rgba(0, 0, 0, 0.3);
+}
+
+/* Quiz Box */
+.quiz-container {
+    flex: 1;
+    text-align: center;
+    background-color: #0093E9;
+    background-image: linear-gradient(160deg, #0093E9 0%, #80D0C7 100%);
+
+    /* background: #77a6f7; */
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow: 3px 6px 6px rgba(0, 0, 0, 0.4);
+}
+
+h2 {
+    font-weight: bold;
+}
+
+/* Options */
+.options button {
+    display: block;
+    width: 80%;
+    margin: 10px auto;
+    padding: 10px;
+    border-radius: 20px;
+    border: none;
+    font-size: 18px;
+    cursor: pointer;
+    background: #d6c7ff;
+    box-shadow: 2px 4px 6px rgba(0, 0, 0, 0.3);
+}
+
+.options button.correct {
+    background-color: green;
+    color: white;
+}
+
+.options button.wrong {
+    background-color: red;
+    color: white;
+}
+
+.hidden {
+    display: none;
+}
+
+/* Next Button */
+.next-container {
+    margin-top: 20px;
+    text-align: center;
+}
+
+#nextBtn {
+    padding: 10px 20px;
+    border-radius: 10px;
+    border: none;
+    cursor: pointer;
+    background: yellow;
+    font-size: 16px;
+    font-weight: bold;
+    box-shadow: rgba(0, 0, 0, 0.19) 0px 10px 20px, rgba(0, 0, 0, 0.23) 0px 6px 6px;
+    align-items: flex-end;
+}
