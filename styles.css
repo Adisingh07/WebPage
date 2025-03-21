@@ -1,0 +1,138 @@
+/* General Styles */
+body {
+    font-family: 'Poppins', sans-serif;
+    background: linear-gradient(to right, #0F2027, #203A43, #2C5364);
+    color: white;
+    margin: 0;
+    padding: 0;
+    text-align: center;
+}
+/* Navbar */
+nav {
+    position: fixed;
+    top: 0;
+    width: 100%;
+    background: rgba(0, 0, 0, 0.8);
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 10px 20px;
+    z-index: 1000;
+}
+
+/* Logo */
+.logo img {
+    background: url(index.html);
+    height: 40px;
+}
+
+/* Navbar Links */
+.nav-links {
+    list-style: none;
+    display: flex;
+    gap: 20px;
+    padding: 0;
+}
+
+.nav-links li a {
+    text-decoration: none;
+    color: white;
+}
+
+/* Auth (Login/Signup) */
+.auth {
+    display: flex;
+    gap: 15px;
+}
+
+.auth a {
+    text-decoration: none;
+    color: white;
+    padding: 5px 10px;
+}
+
+.auth .signup {
+    background: #ffcc00;
+    color: black;
+    border-radius: 5px;
+}
+
+
+/* Headers */
+h1 {
+    font-size: 3rem;
+    font-weight: bold;
+    color: #ffcc00;
+    margin-top: 50px;
+}
+
+h2 {
+    font-size: 2rem;
+    font-weight: bold;
+    color: #ffffff;
+}
+
+
+/* Paragraphs */
+p {
+    font-size: 1.2rem;
+    line-height: 1.6;
+    margin: 10px auto;
+    width: 80%;
+    color: #dddddd;
+}
+
+/* Divider Line */
+hr {
+    width: 50%;
+    border: 1px solid #ffcc00;
+    margin: 30px auto;
+}
+
+/* Icons and Highlights */
+strong {
+    color: #ffcc00;
+}
+
+/* List & Features */
+p strong {
+    color: #ffffff;
+    font-weight: bold;
+}
+
+p strong::before {
+    content: "🔥 ";
+    color: #ffcc00;
+}
+
+/* Mobile Responsive */
+@media (max-width: 768px) {
+    h1 {
+        font-size: 2.5rem;
+    }
+
+    h2 {
+        font-size: 1.8rem;
+    }
+
+    p {
+        font-size: 1rem;
+        width: 90%;
+    }
+
+    hr {
+        width: 70%;
+    }
+}
+/* Footer (Fixed Bottom) */
+footer {
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+    text-align: center;
+    background: #102a43;
+    padding: 10px;
+}
+div{
+    height: 20px;
+}
